@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59928b41-cc3a-4f4a-9baf-c37b6980076b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Compiler\Soft\Environment\apache-maven-3.8.4\maven-repo" />
+        <option name="mavenHome" value="D:\Compiler\Soft\Environment\apache-maven-3.8.4" />
+        <option name="userSettingsFile" value="D:\Compiler\Soft\Environment\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2eIzGcTNq3zBsxx1DOCjzs6bqff" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.drug [clean].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.Application.executor": "Debug",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/文件/论文/2024年7月14日/基于SpringBoot+Vue的中药铺子系统/药房管理系统/drug-main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "05b2815ccf6592b0f62fe89851e114fa",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="drug" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.drug.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59928b41-cc3a-4f4a-9baf-c37b6980076b" name="Changes" comment="" />
+      <created>1711606786684</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711606786684</updated>
+      <workItem from="1711606788486" duration="9244000" />
+      <workItem from="1711875963231" duration="31141000" />
+      <workItem from="1712667325144" duration="1378000" />
+      <workItem from="1712731476868" duration="7084000" />
+      <workItem from="1712798968628" duration="1695000" />
+      <workItem from="1712920497505" duration="1832000" />
+      <workItem from="1713344783096" duration="1186000" />
+      <workItem from="1713778348835" duration="1868000" />
+      <workItem from="1713929725322" duration="7377000" />
+      <workItem from="1714034960817" duration="6976000" />
+      <workItem from="1714142207572" duration="3825000" />
+      <workItem from="1714178551279" duration="1698000" />
+      <workItem from="1714183254954" duration="865000" />
+      <workItem from="1714358448105" duration="68000" />
+      <workItem from="1714358535440" duration="1583000" />
+      <workItem from="1714469116778" duration="672000" />
+      <workItem from="1714813325346" duration="466000" />
+      <workItem from="1715134382123" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="application.properties" />
+  </component>
+</project>
